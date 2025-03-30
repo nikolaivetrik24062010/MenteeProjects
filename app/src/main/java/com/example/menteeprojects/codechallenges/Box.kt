@@ -1,4 +1,4 @@
-package com.example.menteeprojects
+package com.example.menteeprojects.codechallenges
 
 class Box<T>(private var item: T) {
     fun get(): T = item
