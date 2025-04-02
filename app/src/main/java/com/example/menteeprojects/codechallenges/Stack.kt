@@ -8,7 +8,7 @@ class Stack<T> {
 
     fun pop(): T {
         if (elements.isEmpty()) throw NoSuchElementException("Stack is empty")
-        return elements.removeAt(elements.size - 1)
+        return elements.removeAt(elements.lastIndex)
     }
 
     fun peek(): T {
