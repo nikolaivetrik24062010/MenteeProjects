@@ -1,4 +1,6 @@
-package com.example.menteeprojects.dsa
+package com.example.menteeprojects.codechallenges.dsa
+
+import kotlin.text.iterator
 
 fun firstUniqueChar(s: String): Char {
     val freqMap = mutableMapOf<Char, Int>()
