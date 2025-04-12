@@ -1,4 +1,4 @@
-package com.example.menteeprojects.codechallenges
+package com.example.menteeprojects.week1.codechallenges
 
 class Stack<T> {
     private val elements = mutableListOf<T>()

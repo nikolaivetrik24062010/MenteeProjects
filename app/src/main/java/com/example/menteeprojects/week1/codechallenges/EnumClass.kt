@@ -1,4 +1,4 @@
-package com.example.menteeprojects.codechallenges
+package com.example.menteeprojects.week1.codechallenges
 
 enum class OrderStatus(val etaInDays: Int) {
     PENDING(1),

@@ -1,4 +1,4 @@
-package com.example.menteeprojects
+package com.example.menteeprojects.ui
 
 import android.os.Bundle
 import androidx.compose.ui.graphics.Color

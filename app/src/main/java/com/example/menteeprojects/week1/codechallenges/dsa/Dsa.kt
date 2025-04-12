@@ -1,4 +1,4 @@
-package com.example.menteeprojects.codechallenges.dsa
+package com.example.menteeprojects.week1.codechallenges.dsa
 
 import kotlin.text.iterator
 

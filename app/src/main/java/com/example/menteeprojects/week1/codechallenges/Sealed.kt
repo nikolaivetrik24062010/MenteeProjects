@@ -1,4 +1,4 @@
-package com.example.menteeprojects.codechallenges
+package com.example.menteeprojects.week1.codechallenges
 
 sealed class NetworkResult {
     data class Success(val data: String) : NetworkResult()
