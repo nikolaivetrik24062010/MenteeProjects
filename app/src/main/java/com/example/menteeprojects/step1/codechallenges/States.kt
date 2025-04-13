@@ -1,4 +1,4 @@
-package com.example.menteeprojects.week1.codechallenges
+package com.example.menteeprojects.step1.codechallenges
 
 sealed class ScreenState<out T> {
     object Loading : ScreenState<Nothing>()

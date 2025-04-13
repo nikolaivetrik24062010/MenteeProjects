@@ -1,4 +1,4 @@
-package com.example.menteeprojects.week1
+package com.example.menteeprojects.step1
 
 class Box<T>(private var item: T) {
     fun get(): T = item

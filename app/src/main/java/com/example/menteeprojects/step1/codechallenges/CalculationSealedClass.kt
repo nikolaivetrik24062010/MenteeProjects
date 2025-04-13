@@ -1,4 +1,4 @@
-package com.example.menteeprojects.week1.codechallenges
+package com.example.menteeprojects.step1.codechallenges
 
 sealed class CalculationSealedClass() {
     data class Plus(val a: Int, val b: Int) : CalculationSealedClass()
