@@ -64,4 +64,5 @@ dependencies {
     implementation(libs.androidx.material)
     implementation(libs.androidx.animation)
     implementation(libs.androidx.navigation.compose)
+    implementation(libs.androidx.constraintlayout.compose)
 }

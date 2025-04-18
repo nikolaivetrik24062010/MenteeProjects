@@ -48,7 +48,7 @@ fun ListAnimatedItemsScreen() {
     ListAnimatedItemsExample(
         data = items,
         onAddItem = {
-            val newItem = ListItem(nextId++, "Item ${nextId}")
+            val newItem = ListItem(nextId++, "Item $nextId")
             items.add(newItem)
         },
         onRemoveItem = {
